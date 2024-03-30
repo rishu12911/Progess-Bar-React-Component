@@ -1,2 +1,8 @@
-# Progess Bar React Component
- Create a component called ProgressBar which displays a progress bar. The progress bar should have the following styling applied:  // // A width of 100% // // A height of 20px // // A border radius of 5px // // The completed bit should be green // // The remaining bit should be lightgrey // // You add the CSS to the component using Styled Components or using Inline CSS or adding identifiers and using the css file. It's totally up to you  // // The component should accept a percent prop which is used to determine how many percentage of the progress bar to fill with green colour.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

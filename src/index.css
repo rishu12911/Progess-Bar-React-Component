@@ -1,0 +1,29 @@
+.progress-bar-con{
+  width: 100%;
+  background-color: rgb(32, 2, 2);
+  border: radius 5px;
+  padding: 3px;
+  margin-top: auto;
+}
+
+.progess-bar{
+  height: 20px;
+  background-color: rgb(148, 160, 21);
+  border-radius: 5px;
+  transition: 0.3s;
+}
+
+
+
+
+/* 
+// Create a component called ProgressBar which displays a progress bar. The progress bar should have the following styling applied:
+
+// A width of 100%
+// A height of 20px
+// A border radius of 5px
+// The completed bit should be green
+// The remaining bit should be lightgrey
+// You add the CSS to the component using Styled Components or using Inline CSS or adding identifiers and using the css file. It's totally up to you
+
+// The component should accept a percent prop which is used to determine how many percentage of the progress bar to fill with green colour. */
